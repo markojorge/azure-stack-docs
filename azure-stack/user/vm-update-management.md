@@ -153,7 +153,7 @@ Azure Monitor for VMs includes a set of performance charts that target several k
 Viewing the discovered app components on Windows and Linux VMs running in Azure Stack Hub can be observed in two ways with Azure Monitor for VMs. The first is from a VM directly and the second is across groups of VMs from Azure Monitor.
 The [Using Azure Monitor for VMs Map to understand app components](/azure/azure-monitor/insights/vminsights-maps) article will help you understand the experience between the two perspectives and how to use the Map feature.
 
-   ![Azure Monitor VMs Map tab]((http:/docs.microsoft.com/azure/azure-monitor/insights/media/vminsights-maps/map-multivm-azure-monitor-01.png)
+   ![Azure Monitor VMs Map tab]((http:/docs.microsoft.com/azure/azure-monitor/insights/media/vminsights-maps/map-multivm-azure-monitor-01.png) ----> MISSING IMAGE????
 
 In case [Azure Monitor for VMs](/azure/azure-monitor/insights/vminsights-overview) is not showing you any performance data, you have to enable the collection of performance data for Windows and Linux in your [LogAnalytics Workspace](/azure/azure-monitor/platform/data-sources-performance-counters) Advanced Settings.
 
